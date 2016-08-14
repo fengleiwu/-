@@ -17,6 +17,7 @@ PODS:
   - FMDB (2.6.2):
     - FMDB/standard (= 2.6.2)
   - FMDB/standard (2.6.2)
+  - Masonry (1.0.1)
   - MJRefresh (3.1.6)
   - MOBFoundation (2.0.1)
   - SDWebImage (3.8.1):
@@ -33,6 +34,7 @@ PODS:
 DEPENDENCIES:
   - AFNetworking (~> 3.1.0)
   - FMDB (~> 2.6.2)
+  - Masonry (~> 1.0.1)
   - MJRefresh (~> 3.1.6)
   - MOBFoundation
   - SDWebImage (~> 3.8.1)
@@ -45,11 +47,12 @@ DEPENDENCIES:
 SPEC CHECKSUMS:
   AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
   FMDB: 854a0341b4726e53276f2a8996f06f1b80f9259a
+  Masonry: a1a931a0d08870ed8ae415a2ea5ea68ebcac77df
   MJRefresh: 5c69f11e8bde0664e15326d2e61f61e103c6545f
   MOBFoundation: a42168392e216fc56cbcbdfc3d5dcb3bbce5ef87
   SDWebImage: 35f9627a3e44b4f292a8a8ce6a531fa488239b91
   ShareSDK3: c76cb96eb38e079952b8157071486d945faa2df2
 
-PODFILE CHECKSUM: 6f52ca2a7b3730f90fbfd85458688cebad9fa1e5
+PODFILE CHECKSUM: 20b4308f9be783abf6ff083d07037271f3d9089f
 
 COCOAPODS: 1.0.1
